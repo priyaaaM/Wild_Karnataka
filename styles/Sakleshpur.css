@@ -1,0 +1,33 @@
+.heading h2, h3, p {
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 1%;
+}
+
+.description p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:justify;
+    /* padding-top: 1%; */
+    margin-top: 5%;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-bottom: 0%;
+}
+
+.image img {
+    width: 100%;
+    height: 100%;
+}
+
+#more {
+    display: none;
+}
+
+.readMorebtn {
+    padding: 0;
+    border: none;
+    background: none;
+    align-items: center;
+    color: blue;
+    font-style: italic;
+}
